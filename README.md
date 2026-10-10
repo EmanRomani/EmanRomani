@@ -1,24 +1,20 @@
-<!-- Template:
-[![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/mlhacks)
-[![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)
+[![GitHub followers](https://img.shields.io/github/followers/EmanRomani?label=Followers&style=flat-square)](https://github.com/EmanRomani)
 
 ## About
-👋 Heyo, I'm [Your Name]. I'm a [Your Title] at [Your Company]. I work on [describe your work and technical focus, e.g., "web services, demos, and hackathon projects with a focus on Python, JavaScript/TypeScript, and lightweight web apps."]
+👋 Hey, I'm **Emanuel Tossou** — a software engineering student at **Georgia State University** and a full-stack developer based in **Atlanta, Georgia**. I enjoy building web experiences and practical software projects.
 
-- 📍 Location: [Your City, State]
-- 🎓 Education: [Your University or School]
-- 📅 Hacking Since: [Year you started coding/hacking]
+- 📍 Atlanta, Georgia
+- 🎓 Georgia State University
+- 💼 Full-stack development
 
 ## Featured Projects
-- 🎲 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_1
-- 🛠️ [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_2
-- 🤖 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_3
+- 🌐 [My Personal Website](https://github.com/EmanRomani/Romani-s-Site) — a personal website and portfolio in progress. (JavaScript)
+- 💼 [Business Card](https://github.com/EmanRomani/Business-Card) — a digital business card linking to my LinkedIn profile. (HTML, CSS)
 
 ## Tech & Interests
-- 🧰 Languages: [Language 1], [Language 2], [Language 3]
-- 🔭 Focus: [Area of Focus 1], [Area of Focus 2]
-- ❤️ Interests: [Interest 1], [Interest 2], [Interest 3]
--->
+- 🧰 Languages: JavaScript, HTML, CSS, Python
+- 🔭 Focus: Full-stack development and web projects
+- ❤️ Interests: Basketball, software engineering, and building useful things
 
 <!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
 ---
